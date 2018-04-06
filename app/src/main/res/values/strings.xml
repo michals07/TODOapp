@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TO-DOapp</string>
+    <string name="title_main_activity">TO-DOapp</string>
+    <string name="settings_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
